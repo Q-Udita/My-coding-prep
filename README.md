@@ -7,6 +7,8 @@
 # 6.  Graph Algorithms       
 # 7.  Dynamic Programming    |  (May/Jun)
 # 8.  HashTables 
-# 9.  Searching & Sorting    |  (May/Jun)
+# 9.  Searching & Sorting   
 # 10. Backtracking           |  (May/Jun)
-# 11. Bit Algorithms         |  (May/Jun)
+# 11. Bit Algorithms 
+# 12. Greedy
+# 13. Divide & Conquer
